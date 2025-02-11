@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kfz", "Kfz\Kfz.csproj", "{79F3BED8-4888-4DC5-ADB8-AD4008FA003A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kfz.Database", "Kfz.Database\Kfz.Database.csproj", "{826D776A-52B0-47E1-8724-94C8ED57BF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F3BED8-4888-4DC5-ADB8-AD4008FA003A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F3BED8-4888-4DC5-ADB8-AD4008FA003A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F3BED8-4888-4DC5-ADB8-AD4008FA003A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F3BED8-4888-4DC5-ADB8-AD4008FA003A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826D776A-52B0-47E1-8724-94C8ED57BF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826D776A-52B0-47E1-8724-94C8ED57BF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826D776A-52B0-47E1-8724-94C8ED57BF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826D776A-52B0-47E1-8724-94C8ED57BF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
